@@ -1,8 +1,8 @@
 # SEProject-2024
 Group members:
-(1)	Ernest Teo (001202300142)
-(2)	Jeremy Christian Walangitan (001202300129)
-(3)	Ngurah Jaya Deva (001202300141)
+(1)	Ernest Teo
+(2)	Jeremy Christian Walangitan
+(3)	Ngurah Jaya Deva
 
 The theme of our website is Gadget Repair Services Website. We used HTML, CSS, and Bootstrap to make this website. With this report, we will explain each page of our website. This website consists of 5 pages : 
 1.	Sign Up page, 
